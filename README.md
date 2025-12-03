@@ -70,7 +70,6 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Info.gif](https://github.com/Nikhil-Rane108/Buisness-Insights-360/blob/main/Resource/Info%20page.png)
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
 
 ## Project Outcome
 
