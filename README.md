@@ -1,4 +1,6 @@
 # Buisness-Insights-360
+[Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWQ4M2Q5MDMtM2UzNy00YWQyLTg3MTQtYzA2ZjhiZDVhMTE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) | [Presentation](https://youtu.be/3AzOGFcB2_k?si=JsRZHU4JHhy5W-XQ) | [LinkedIn Post](https://www.linkedin.com/posts/nikhil-rane-analyst_powerbi-dataanalytics-datavisualization-activity-7403774612590944256--Los?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC10OvgB0zh_HYQl7nxkQqRRSMldQv55JME)
+
 
 ## Project Overview
 
